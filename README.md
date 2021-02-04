@@ -20,5 +20,5 @@ npm run build
 npm run lint
 ```
 
-<img src="https://i.imgur.com/VKDJUyc.jpg " width="300" height="600">
+<img src="https://i.imgur.com/VKDJUyc.jpg " width="800" height="1200">
 
